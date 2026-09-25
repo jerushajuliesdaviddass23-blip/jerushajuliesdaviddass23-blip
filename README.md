@@ -39,7 +39,7 @@ Welcome to my GitHub! I build production ML systems that solve real-world proble
 ## 📫 Let's Connect
 - 📧 Email: jerushajuliesdaviddass23@gmail.com
 - 💼 LinkedIn: linkedin.com/in/jerusha-johanna
-- 🌐 Portfolio: https://jeru.netlify.app
+- 🌐 Portfolio: https://jerushaj.netlify.app
 - 📱 Phone: +44 7827100927
 
 ---
