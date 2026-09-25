@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jerusha Johanna
+# Hi there 👋 I'm Jerusha Johanna Janetrin
 
 **Data Scientist | ML Engineer | LSTM & Transfer Learning Specialist**  
 *Based in Manchester, UK 🇬🇧 • Open to: UK 🇬🇧 & Sweden 🇸🇪*
